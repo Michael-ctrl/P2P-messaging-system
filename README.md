@@ -1,4 +1,4 @@
-# P2P-messaging-system
+# TCP-messaging-system
 
 ## Aim
 To develop a TCP client and server for an instant messaging system/forum that supports concurrent users. The clients are able to connect to the forum to send messages and transfer files between users via TCP.
